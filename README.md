@@ -11,7 +11,7 @@ Expert in **Agentic AI**, **Distributed Systems**, and **High-Performance Infras
 - 💻 **Software Engineer @ IBM** (License Management Systems)
 
 ### 🏆 Competitive Excellence
-- 🥇 **Codeforces Top 150** (Handle: Competitive Specialist)
+- 🥇 **Codeforces Top 150**
 - 🥈 **Meta Hacker Cup** - Global Rank **803rd**
 - 🎓 **Master of Computer Science** - Specialized in NLP & Data Intelligence
 
